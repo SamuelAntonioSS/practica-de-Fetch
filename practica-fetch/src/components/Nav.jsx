@@ -12,13 +12,18 @@ const Nav = () => {
                         </a>
                     </li>
                     <li>
-                        <a href="/dragon ball" className="hover:text-gray-200">
+                        <a href="/DragonBall" className="hover:text-gray-200">
                             Dragon Ball
                         </a>
                     </li>
                     <li>
-                        <a href="/registroestudiantes" className="hover:text-gray-200">
-                           
+                        <a href="/about" className="hover:text-gray-200">
+                           About
+                        </a>
+                    </li>
+                    <li>
+                        <a href="/RickandMorty" className="hover:text-gray-200">
+                           RickandMorty
                         </a>
                     </li>
                    
